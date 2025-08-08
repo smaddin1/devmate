@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+langchain
+sentence-transformers
+numpy
+python-dotenv
+pytest
+black
+isort
